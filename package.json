@@ -1,0 +1,13 @@
+{
+  "name": "webdriverio-slack",
+  "version": "1.0.0",
+  "description": "WebdriverIO custom reporter for posting results to slack",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "Jeremy Rader",
+  "license": "ISC",
+  "dependencies": {
+    "sync-request": "^3.0.0"
+  }
+}
